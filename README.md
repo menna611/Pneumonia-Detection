@@ -1,4 +1,7 @@
 # Pneumonia-Detection
+-----------------------------------
+link dataset from kaggle:https://www.kaggle.com/datasets/fatemehmehrparvar/lung-disease
+-----------------------------------
 🫁 Pneumonia Detection from Chest X-Ray Images 🩺
 
 A deep learning model deployed using Streamlit that detects Pneumonia (Viral vs Normal) from X-Ray chest images.
